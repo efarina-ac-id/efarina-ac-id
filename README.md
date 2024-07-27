@@ -48,7 +48,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For more information about Akademi Keperawatan RS Efarina, please visit our website or contact us:
 
-- 🌐 **Website:** [Akademi Keperawatan RS Efarina](http://www,efarina.ac.id)
+- 🌐 **Website:** [Akademi Keperawatan RS Efarina](http://www.efarina.ac.id)
 - 📧 **Email:** info@efarina.ac.id
 
 Join us in our mission to nurture the healthcare heroes of tomorrow through collaboration and innovation!
